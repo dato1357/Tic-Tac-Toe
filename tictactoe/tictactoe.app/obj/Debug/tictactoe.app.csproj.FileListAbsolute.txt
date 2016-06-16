@@ -1,0 +1,8 @@
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\bin\Debug\tictactoe.app.exe.config
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\bin\Debug\tictactoe.app.exe
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\bin\Debug\tictactoe.app.pdb
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\bin\Debug\tictactoe.engine.dll
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\bin\Debug\tictactoe.engine.pdb
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\obj\Debug\tictactoe.app.csprojResolveAssemblyReference.cache
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\obj\Debug\tictactoe.app.exe
+C:\Users\DATO\Desktop\Minimax-tictactoe-master\tictactoe.app\obj\Debug\tictactoe.app.pdb
